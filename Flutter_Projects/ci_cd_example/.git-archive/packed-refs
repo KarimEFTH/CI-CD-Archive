@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+c777c8c33c091abf3b863c33d39d9c174beba481 refs/remotes/origin/cert
+789e43929128763f730e6a5637572b032021c486 refs/remotes/origin/main
+2d6c656b6b88e92457e67f3f420d810cf1062d60 refs/remotes/origin/publish_to_fastlane_android
+04d48e5a0672c6941b033d27b5943e754487bd52 refs/remotes/origin/publish_to_firebase
+abcd01d821603f06e1dd5a630c1f63a5de10a435 refs/remotes/origin/test_ios_testflight

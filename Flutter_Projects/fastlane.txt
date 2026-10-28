@@ -1,0 +1,5 @@
+https://rubyinstaller.org/
+ruby -v
+
+gem install fastlane -NV (OR gem install fastlane)
+fastlane -v

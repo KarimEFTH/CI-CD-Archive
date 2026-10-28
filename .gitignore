@@ -1,0 +1,41 @@
+.env
+.env.*
+!.env.example
+local.properties
+*.jks
+*.keystore
+*.pem
+*.p12
+*.pfx
+key.properties
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Build outputs
+build/
+**/build/
+.gradle/
+**/.gradle/
+.idea/
+**/.idea/
+node_modules/
+**/node_modules/
+
+# Local machine configuration
+local.properties
+.env
+.env.*
+!.env.example
+
+# Signing keys and certificates
+*.jks
+*.keystore
+*.pem
+*.p12
+*.pfx
+key.properties

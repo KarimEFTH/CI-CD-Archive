@@ -1,0 +1,5 @@
+https://docs.flutter.dev/deployment/flavors
+
+firebase crashlytics & centry!
+
+flutter run --release -t lib/main_production.dart --flavor production

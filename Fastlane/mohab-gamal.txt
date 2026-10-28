@@ -1,0 +1,20 @@
+RubyInstaller for Windows => (https://rubyinstaller.org/)
+ruby -v
+
+fastlane docs => (https://docs.fastlane.tools/getting-started/android/setup/)
+gem install fastlane -NV
+fastlane -v
+
+FlutterFire => (https://firebase.flutter.dev/docs/overview)
+flutter pub add firebase_core
+dart pub global activate flutterfire_cli
+flutterfire configure
+
+fastlane init
+
+https://firebase.google.com/docs/app-distribution/android/distribute-fastlane?hl=fr
+fastlane add_plugin firebase_app_distribution
+firebase login:ci
+token => ([REDACTED_TOKEN])
+
+end file flutter (store token)

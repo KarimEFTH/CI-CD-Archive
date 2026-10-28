@@ -1,0 +1,7 @@
+https://firebase.google.com/docs/flutter/setup?hl=fr&platform=android
+
+firebase logout
+firebase login
+flutterfire configure
+
+source three
